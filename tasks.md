@@ -22,3 +22,4 @@ d) Deploy simple application using helm
 
 
 # 2 - February 20th
+![image](https://user-images.githubusercontent.com/70852683/220161480-f52acea8-1b5e-4e66-9daf-a9bb44a2d46b.png)
